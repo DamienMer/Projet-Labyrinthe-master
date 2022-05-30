@@ -1,0 +1,58 @@
+# un commentaire commence par #
+
+a	tp_bleu.jpg	# texture téléporteur bleu
+b	tp_rouge.jpg	# texture téléporteur rouge
+c	tp_vert.jpg	# texture téléporteur vert
+d	tp_jaune.jpg	# texture téléporteur jaune
+e	tp_rose.jpg	# texture téléporteur rose
+y	shootD.jpg	# texture téléporteur rose
+z	shootG.jpg	# texture téléporteur rose
+=	plafond.jpg	# texture mur cassable
+
+
+
++---------+ +-+
+|         | |A| +---------+
+|         | | | |         |
+|         | | | |         |
+|         a | | |         |
+| C       | | | |         |
+|      T  | | | |         |
+|         | | | |         |
+|         | | | |         |
++---------+ | | |+=++=++=+|
++-----------+ | |= == == =|
+|      G      | |+=++=++=+|
+| +-----------+ y         |
+| |             |         z
+| +-+           |         |
+|   |           |    X    |
++-b-+           |    C    |
+                +---------+
++----------------------------+
+|             B              |
+|                            |
+|                            |
+|     +z-+          +y-+     |
+|    X+  +==========+  +X    |
+|     +--+          +--+     |
+|         X                  |
+|                            |
+|                        +---+
+|      X      G      X       |
+|                            |
+|                            |
+|                        X   |
+|         X                  |
+|      +=+          X        |
+|      =G=               G   |
+|      +=+                   |
+|        X                   |
+|                    X       |
+|        G                   |
+|                            |
+|                     G      |
+|              G             |
+|                            |
+|                            |
++-------a----b----c----------+
